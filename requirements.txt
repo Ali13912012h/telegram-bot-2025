@@ -1,0 +1,5 @@
+python-telegram-bot==20.6
+aiofiles==23.2.1
+cryptography==41.0.7
+matplotlib==3.8.2
+jdatetime==4.1.1
