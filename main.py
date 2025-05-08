@@ -23,8 +23,7 @@ import jdatetime
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 logger = logging.getLogger(__name__)
 
-# توکن بات
-TOKEN = '8122288665:AAHVQ3pVTrfTj0a_caGuITz3K4vxXoO9vcw'
+# تcw'
 SALT = b'my_super_secret_salt_123'
 active_nodes = set()
 node_cache = {}
